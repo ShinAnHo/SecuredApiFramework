@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain.ApiSecurity\Domain.ApiSecurity.csproj" />
+    <ProjectReference Include="..\Domain.Resource.SampleCountry.Business\Domain.Resource.SampleCountry.Business.csproj" />
+    <ProjectReference Include="..\Domain.ServiceDiscovery\Domain.ServiceDiscovery.csproj" />
+  </ItemGroup>
+
+</Project>

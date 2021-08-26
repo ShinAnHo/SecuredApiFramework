@@ -1,0 +1,17 @@
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\bin\Debug\net5.0\Domain.Resource.SampleNews.Data.deps.json
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\bin\Debug\net5.0\Domain.Resource.SampleNews.Data.dll
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\bin\Debug\net5.0\ref\Domain.Resource.SampleNews.Data.dll
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\bin\Debug\net5.0\Domain.Resource.SampleNews.Data.pdb
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\bin\Debug\net5.0\Domain.Api.dll
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\bin\Debug\net5.0\Domain.Database.dll
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\bin\Debug\net5.0\Domain.Api.pdb
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\bin\Debug\net5.0\Domain.Database.pdb
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\obj\Debug\net5.0\Domain.Resource.SampleNews.Data.csproj.AssemblyReference.cache
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\obj\Debug\net5.0\Domain.Resource.SampleNews.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\obj\Debug\net5.0\Domain.Resource.SampleNews.Data.AssemblyInfoInputs.cache
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\obj\Debug\net5.0\Domain.Resource.SampleNews.Data.AssemblyInfo.cs
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\obj\Debug\net5.0\Domain.Resource.SampleNews.Data.csproj.CoreCompileInputs.cache
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\obj\Debug\net5.0\Domain.Resource.SampleNews.Data.csproj.CopyComplete
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\obj\Debug\net5.0\Domain.Resource.SampleNews.Data.dll
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\obj\Debug\net5.0\ref\Domain.Resource.SampleNews.Data.dll
+D:\SourceCode\SecuredApiFramework\Domain.Resource.SampleNews.Data\obj\Debug\net5.0\Domain.Resource.SampleNews.Data.pdb

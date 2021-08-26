@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aA7E/G/Tr8j5f5n7+ocSh9MT1IZ8wnnQ5hw5TEK3sSuJZdVAp4apn9/gO2pvumUg7/kGjBc2QbR2BWHwPxIwZA==",
+  "success": true,
+  "projectFilePath": "D:\\SourceCode\\SecuredApiFramework\\Domain.Common\\Domain.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kohar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kohar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

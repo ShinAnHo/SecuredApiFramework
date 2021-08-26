@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain.Api\Domain.Api.csproj" />
+    <ProjectReference Include="..\Domain.Common\Domain.Common.csproj" />
+    <ProjectReference Include="..\Domain.Database\Domain.Database.csproj" />
+  </ItemGroup>
+
+</Project>

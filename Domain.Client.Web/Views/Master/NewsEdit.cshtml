@@ -1,0 +1,38 @@
+﻿<script> var Id = @ViewBag.Id </script>
+
+<div class="card card-custom gutter-b example example-compact">
+    <div class="card-header">
+        <h3 class="card-title">Edit News</h3>
+    </div>
+    <!--begin::Form-->
+    <div class="card-body">
+        <div class="form-group">
+            <label>
+                News ID
+            </label>
+            <input id="txtNewsId" disabled="disabled" type="text" class="form-control">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">
+                Title
+            </label>
+            <input id="txtTitle" type="text" class="form-control">
+        </div>
+        <div class="form-group mb-1">
+            <label for="exampleTextarea">
+                Content
+            </label>
+            <textarea id="txtContent" class="form-control" rows="3"></textarea>
+        </div>
+    </div>
+    <div class="card-footer">
+        <button id="btnSubmit" type="reset" class="btn btn-primary mr-2" onclick="Form.Submit();">Submit</button>
+        <button id="btnCancel" type="reset" class="btn btn-secondary" onclick="Form.Cancel();">Cancel</button>
+    </div>
+    <!--end::Form-->
+</div>
+
+@section scripts
+{
+    <script type="text/javascript" src="@Url.Content("~/js/NewsEdit.js")"></script>
+}
